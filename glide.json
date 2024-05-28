@@ -1,0 +1,23 @@
+[
+  {
+    "kind": "column",
+    "name": "Find Next String",
+    "description": "Returns the text string that immediately follows the input string in a comma-separated list.",
+    "author": "Your Name <your.email@example.com>",
+    "params": [
+      {
+        "name": "series",
+        "displayName": "Comma-separated Series",
+        "type": "string"
+      },
+      {
+        "name": "inputString",
+        "displayName": "Input String",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
